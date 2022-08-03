@@ -26,7 +26,7 @@ The challenge was designed for both desktop and mobile screen users.
 
 ### Links
 - Solution URL: [Github](https://github.com/MUBARAHKAH/four-card-feature.git)
-- Live Site URL: [Livesite](https://your-live-site-url.com)
+- Live Site URL: [Livesite](https://mubarahkah.github.io/testimonials-grid-section/)
 
 ## My process
 
